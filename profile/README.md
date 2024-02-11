@@ -9,6 +9,7 @@ In a world where Moore’s law is slowing down, optimizing code for speed is cru
 
 ## Resources
 - [Website](https://parallelized.in)
+- [Website Source Code](https://github.com/notskamr/parallelized-site)
 - [About](https://parallelized.in/what-and-why)
 - [2023 Guidlines](https://parallelized.in/2023/guidelines)
 - [ShriTeq Site](https://shriteq.org)
