@@ -12,7 +12,7 @@ Optimizing code and leveraging parallelism are crucial in various fields like me
 Parallelized provides a competitive platform for students to learn and apply these concepts effectively.
 
 ## Resources
-- [Website]("https://parallelized.in")
-- [About]("https://parallelized.in/what-and-why")
-- [2023 Guidlines]("https://parallelized.in/2023/guidelines")
-- [ShriTeq Site]("https://shriteq.org")
+- [Website](https://parallelized.in)
+- [About](https://parallelized.in/what-and-why)
+- [2023 Guidlines](https://parallelized.in/2023/guidelines)
+- [ShriTeq Site](https://shriteq.org)
