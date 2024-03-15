@@ -1,4 +1,4 @@
-`parallelized` is a code optimization competition organized by Varun Sahni for ShriTeq. Teams of two compete to achieve maximum speedup in Python within three hours.
+`parallelized` is a code optimization competition organized by [Varun Sahni](https://github.com/notskamr) for ShriTeq. Teams of two compete to achieve maximum speedup in Python within three hours.
 
 ## What is `parallelized`?
 
